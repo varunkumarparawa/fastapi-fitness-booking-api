@@ -75,7 +75,7 @@ Interactive API docs: [http://127.0.0.1:8000/docs](http://127.0.0.1:8000/docs)
 
 ---
 
-## 🧪 Running Tests
+##  Running Tests
 
 To run the automated integration tests, run the following command in your terminal:
 
