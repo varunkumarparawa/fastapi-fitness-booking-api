@@ -4,7 +4,7 @@ A robust, self-contained Python & FastAPI backend Booking API for a fictional fi
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 - **Framework:** FastAPI
 - **Language:** Python 3.13
@@ -15,7 +15,7 @@ A robust, self-contained Python & FastAPI backend Booking API for a fictional fi
 
 ---
 
-## 🔑 Environment Variables
+##  Environment Variables
 
 To run this project, you will need to add the following environment variables to your `.env` file (see `.env.example` for reference):
 
@@ -26,7 +26,7 @@ To run this project, you will need to add the following environment variables to
 
 ---
 
-## 💻 Run Locally
+##  Run Locally
 
 ### 1. Clone the project and navigate to the directory
 ```bash
@@ -85,9 +85,9 @@ pytest
 
 ---
 
-## 📖 API Reference
+##  API Reference
 
-### 🔐 Authentication
+###  Authentication
 
 #### Register a new user
 ```http
@@ -127,7 +127,7 @@ pytest
 
 ---
 
-### 🏋️ Classes
+###  Classes
 
 #### Create a class (Requires Auth Header)
 ```http
@@ -172,7 +172,7 @@ pytest
 
 ---
 
-### 🎟️ Bookings
+###  Bookings
 
 #### Book a slot in a class (Requires Auth Header)
 ```http
@@ -220,7 +220,7 @@ pytest
 
 ---
 
-## 🗄️ Database Schema
+##  Database Schema
 
 ### Users Table
 - `id` (INTEGER, PK)
@@ -246,6 +246,3 @@ pytest
 
 ---
 
-## 💬 Feedback
-
-If you have any feedback or questions, please reach out to the development team at support@aurastudio.com.
